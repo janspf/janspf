@@ -1,6 +1,6 @@
-Olá, sou a Janaína!
+# Olá!👋 Me chamo Janaína!
+Sou uma entusiasta de tecnologia que adora aprender coisas novas. Conecte-se comigo no LinkedIn. [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janainapfeitosa/)](https://www.linkedin.com/in/janainapfeitosa/)
 
-* Cursando Pós-Graduação de Engenharia de Dados 📊
 * Formada em Administração e em Análise e Desenvolvimento de Sistemas👩🏻‍🎓
 * Sempre em busca de novos desafios 🚀
 * Apaixonada por Games 🎮
